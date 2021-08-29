@@ -5,6 +5,7 @@
 3. Engineering
 4. Biology/BioTech/Pharma
 5. Sustainability - Food, Water & Energy
+6. Cybersecurity
 
 # Data 
 1. Numbers & Text
@@ -21,6 +22,14 @@
 4. Cameras
 5. Accesories
 6. Drones
+
+# Industry Analysis
+
+1. Automobile
+2. Aviation
+3. Telecom
+4. Healthcare
+
 
 # Career
 
