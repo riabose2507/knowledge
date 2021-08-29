@@ -13,6 +13,15 @@
 4. Natural Language
 5. Vision & Video
 
+# Consumer Tech
+
+1. Phone
+2. Laptop & Tablets
+3. Audio - Speakers, Headphones, etc
+4. Cameras
+5. Accesories
+6. Drones
+
 # Career
 
 1. Metaskills
